@@ -1,2 +1,7 @@
+# For macOS
+
 .DS_Store
 
+# For cargo
+
+/target
