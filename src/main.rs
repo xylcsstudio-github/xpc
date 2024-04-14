@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, XPC!");
+    println!("XPC Programming Languagle");
 }
